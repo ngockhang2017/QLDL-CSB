@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>logo.png</file>
+        <file>slogan.png</file>
+        <file>map.qml</file>
+    </qresource>
+</RCC>
