@@ -1,7 +1,7 @@
 #include "cuuho.h"
 #include "ui_CuuHo.h"
 
-
+//HUYNH PHAN NGOC KHANG
 CuuHo::CuuHo(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::CuuHo)
